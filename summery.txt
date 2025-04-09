@@ -1,0 +1,21 @@
+1. Harvesting Data from the Web (Web Scraping):
+
+What it is: The automated process of extracting information (text, links, images, prices, etc.) from websites. Think of it like copying and pasting data from many web pages, but done automatically by a program (a "scraper" or "bot").
+
+Why it's done: To gather large amounts of data quickly for analysis, comparison (e.g., price monitoring), research, archiving, lead generation, or feeding into other applications.
+
+How it works: A scraper typically downloads the web page's HTML source code, parses this code to understand its structure, and then extracts the specific pieces of data it's programmed to find.
+
+2. What This Specific Tool (Dynamic GUI Web Scraper) Does:
+
+Simplifies Scraping: It provides a user-friendly graphical interface (GUI), meaning you don't need to write or run complex code yourself.
+
+Handles Multiple Websites: You can paste a list of website URLs, and the tool will attempt to scrape each one sequentially.
+
+Dynamic Extraction: Instead of needing specific instructions for each website, it tries to automatically identify and pull out common types of content found on many pages (like headings, paragraphs, links, images, and tables).
+
+User Feedback: It shows progress messages in a log window within the application so you know what it's doing, and it runs the scraping in the background so the app doesn't freeze.
+
+Structured Output: It organizes the harvested data from each website and saves it into a separate, easy-to-use CSV (Comma Separated Values) file.
+
+In essence: This tool is designed to make basic web scraping accessible to users without programming expertise. It aims to extract common content elements from multiple public web pages and save the results in a structured format (CSV). It's best suited for simpler websites that don't heavily rely on JavaScript to load content or require logins.
