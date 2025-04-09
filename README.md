@@ -2,7 +2,7 @@
 
 A user-friendly Python application with a Graphical User Interface (GUI) designed to scrape content from one or multiple websites dynamically. It attempts to extract common content elements like headings, paragraphs, links, images, and table data without requiring site-specific rules, saving the results into separate CSV files for each successfully scraped URL.
 
-Project Repository: [https://github.com/mohdazmi03/web_scraper/](https://github.com/mohdazmi03/web_scraper/)
+Project Repository: [https://github.com/mohdazmi03/web_scraper_from_urls/](https://github.com/mohdazmi03/web_scraper_from_urls/)
 
 ## Features
 
@@ -25,7 +25,7 @@ Project Repository: [https://github.com/mohdazmi03/web_scraper/](https://github.
 1.  **Clone or Download:** Get the project files onto your local machine.
     ```bash
     # Clone the repository
-    git clone https://github.com/mohdazmi03/web_scraper.git
+    git clone https://github.com/mohdazmi03/web_scraper_from_urls.git
     cd web_scraper
     ```
     Or download the source code as a ZIP file from the repository page and extract it.
