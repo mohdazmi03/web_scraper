@@ -26,18 +26,18 @@ Project Repository: [https://github.com/mohdazmi03/web_scraper_from_urls/](https
     ```bash
     # Clone the repository
     git clone https://github.com/mohdazmi03/web_scraper_from_urls.git
-    cd web_scraper
+    cd web_scraper_from_urls
     ```
     Or download the source code as a ZIP file from the repository page and extract it.
 
-2.  **Install Dependencies:** Navigate to the project directory (`web_scraper`) in your terminal and install the required libraries using pip and the `requirements.txt` file:
+2.  **Install Dependencies:** Navigate to the project directory (`web_scraper_from_urls`) in your terminal and install the required libraries using pip and the `requirements.txt` file:
     ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-1.  **Run the Script:** Open your terminal, ensure you are in the `web_scraper` directory, and execute the main Python script:
+1.  **Run the Script:** Open your terminal, ensure you are in the `web_scraper_from_urls` directory, and execute the main Python script:
     ```bash
     python gui_scraper_v2.py
     ```
@@ -49,7 +49,7 @@ Project Repository: [https://github.com/mohdazmi03/web_scraper_from_urls/](https
 
 4.  **Monitor Progress:** Watch the "Status Log" area for real-time updates on fetching, parsing, scraping, and saving for each URL. The GUI will remain responsive while scraping occurs in the background.
 
-5.  **Find Output Files:** Once the process completes for a URL, a corresponding `.csv` file will be saved in the same `web_scraper` directory where you ran the script. The filename will be automatically generated based on the URL (e.g., `www.example.com_path_page.csv`).
+5.  **Find Output Files:** Once the process completes for a URL, a corresponding `.csv` file will be saved in the same `web_scraper_from_urls` directory where you ran the script. The filename will be automatically generated based on the URL (e.g., `www.example.com_path_page.csv`).
 
 ## Output Format
 
@@ -77,5 +77,5 @@ Each generated CSV file contains the scraped data with the following columns:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Please check the [Issues page](https://github.com/mohdazmi03/web_scraper/issues) if you want to report a bug or suggest an enhancement.
+Contributions, issues, and feature requests are welcome. Please check the [Issues page](https://github.com/mohdazmi03/web_scraper_from_urls/issues) if you want to report a bug or suggest an enhancement.
 
